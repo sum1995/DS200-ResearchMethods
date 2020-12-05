@@ -21,18 +21,19 @@
 
 ![scatterplot](Scatterplot.png)
 
- 1.The plot has ** Exports since 1949-50** vs   ** Imports since 1949-50** .The data provides the Exports, Imports and Trade Balance (Rs. Cr.) since 1949-50 to 2012-13 from last 64 years.
+ 1.The plot has **Export since 1949-50 ** vs ** Import since 1949-50** .The data provides the Exports, Imports and Trade Balance (Rs. Cr.) since 1949-50 to 2012-13 from last 64 years.
  
- 2. The number of Exports for a state/UT are highly correlated with The number of imports. .
+ 2. The number of Exports for a state are highly correlated with The number of imports. .
 * * *
 
 
 * * *
 ### Part3: - Bar Chart
-> Below is the Barchart which shows Export done in Years from last 16 years (1998-99 to 2012-13) for state kolkata.
+> Below is the Barchart which shows Export vs years.
 
 ![Barchart](barplot.png)
 
+This Barchart which shows Export done in Years from last 16 years (1998-99 to 2012-13) for state kolkata.
 ### Part4: - Box Plot
 
 ![Boxplot](boxplot.png)
